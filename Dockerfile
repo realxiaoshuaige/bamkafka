@@ -1,4 +1,4 @@
-FROM java:8-jre
+FROM centos:7
 MAINTAINER CZX
 ADD bamkafkaserv-1.0-SNAPSHOT.jar bamkafkaserv-1.0-SNAPSHOT.jar
 
